@@ -1,0 +1,5 @@
+#surefire
+#Sun Jun 03 04:11:51 CST 2018
+user.dir=E\:\\eclipse-workspace\\TestArtifact
+localRepository=E\:\\m2\\repository
+basedir=E\:\\eclipse-workspace\\TestArtifact
