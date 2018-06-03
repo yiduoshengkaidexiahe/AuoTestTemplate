@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24648" started-at="2018-06-02T18:31:21Z" finished-at="2018-06-02T18:31:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24648" started-at="2018-06-02T18:31:21Z" finished-at="2018-06-02T18:31:46Z">
+      <class name="com.lsc.selenium.num1.ConnMongo">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.lsc.selenium.num1.ConnMongo@3e6fa38a]" name="beforeTest" is-config="true" duration-ms="15" started-at="2018-06-03T02:31:21Z" finished-at="2018-06-03T02:31:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.lsc.selenium.num1.ConnMongo@3e6fa38a]" name="f" duration-ms="0" started-at="2018-06-03T02:31:21Z" finished-at="2018-06-03T02:31:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.lsc.selenium.num1.ConnMongo@3e6fa38a]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-06-03T02:31:46Z" finished-at="2018-06-03T02:31:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.lsc.selenium.num1.ConnMongo -->
+      <class name="com.lsc.selenium.num1.Login">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.lsc.selenium.num1.Login@66a3ffec]" name="beforeClass" is-config="true" duration-ms="0" started-at="2018-06-03T02:31:21Z" finished-at="2018-06-03T02:31:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.lsc.selenium.num1.Login@66a3ffec]" name="f" duration-ms="24614" started-at="2018-06-03T02:31:21Z" finished-at="2018-06-03T02:31:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.lsc.selenium.num1.Login@66a3ffec]" name="afterClass" is-config="true" duration-ms="2" started-at="2018-06-03T02:31:46Z" finished-at="2018-06-03T02:31:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.lsc.selenium.num1.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
